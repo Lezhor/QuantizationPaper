@@ -68,6 +68,7 @@ checkpoints/
 # Notebook model artifacts
 notebooks/models/
 notebooks/models/
+notebooks/export/
 
 # Local config files and secrets (do not push)
 *.yaml
